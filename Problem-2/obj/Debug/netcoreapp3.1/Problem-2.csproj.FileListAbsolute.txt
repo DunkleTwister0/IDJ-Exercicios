@@ -1,0 +1,13 @@
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\bin\Debug\netcoreapp3.1\Problem-2.exe
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\bin\Debug\netcoreapp3.1\Problem-2.deps.json
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\bin\Debug\netcoreapp3.1\Problem-2.runtimeconfig.json
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\bin\Debug\netcoreapp3.1\Problem-2.runtimeconfig.dev.json
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\bin\Debug\netcoreapp3.1\Problem-2.dll
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\bin\Debug\netcoreapp3.1\Problem-2.pdb
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\obj\Debug\netcoreapp3.1\Problem-2.csprojAssemblyReference.cache
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\obj\Debug\netcoreapp3.1\Problem-2.csproj.CoreCompileInputs.cache
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\obj\Debug\netcoreapp3.1\Problem-2.AssemblyInfoInputs.cache
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\obj\Debug\netcoreapp3.1\Problem-2.AssemblyInfo.cs
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\obj\Debug\netcoreapp3.1\Problem-2.dll
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\obj\Debug\netcoreapp3.1\Problem-2.pdb
+D:\Escola\IDJ\IDJ-Exercicios\Problem-2\obj\Debug\netcoreapp3.1\Problem-2.genruntimeconfig.cache

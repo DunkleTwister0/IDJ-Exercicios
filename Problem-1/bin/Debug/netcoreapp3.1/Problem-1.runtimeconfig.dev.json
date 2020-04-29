@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nerv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nerv\\.nuget\\packages"
+    ]
+  }
+}

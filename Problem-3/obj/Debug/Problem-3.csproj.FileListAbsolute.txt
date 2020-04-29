@@ -1,0 +1,7 @@
+D:\Escola\IDJ\IDJ-Exercicios\Problem-3\bin\Debug\Problem-3.exe.config
+D:\Escola\IDJ\IDJ-Exercicios\Problem-3\bin\Debug\Problem-3.exe
+D:\Escola\IDJ\IDJ-Exercicios\Problem-3\bin\Debug\Problem-3.pdb
+D:\Escola\IDJ\IDJ-Exercicios\Problem-3\obj\Debug\Problem-3.csprojAssemblyReference.cache
+D:\Escola\IDJ\IDJ-Exercicios\Problem-3\obj\Debug\Problem-3.csproj.CoreCompileInputs.cache
+D:\Escola\IDJ\IDJ-Exercicios\Problem-3\obj\Debug\Problem-3.exe
+D:\Escola\IDJ\IDJ-Exercicios\Problem-3\obj\Debug\Problem-3.pdb
